@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.test.js",
   "scripts": {
-    "test": "mocha app.test.js"
+    "test": "mocha supertest/*.js"
   },
   "author": "",
   "license": "ISC",
