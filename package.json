@@ -2,7 +2,7 @@
   "name": "supertest",
   "version": "1.0.0",
   "description": "",
-  "main": "app.test.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha supertest/*.js"
   },
